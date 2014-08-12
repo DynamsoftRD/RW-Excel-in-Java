@@ -8,4 +8,4 @@ Blog
 [How to Read and Write Excel Files in Java][2]
 
 [1]:http://poi.apache.org/spreadsheet/how-to.html#sxssf
-[2]:http://www.codepool.biz/tech-frontier/html5/take-a-photo-and-upload-it-on-mobile-phones-with-html5.html
+[2]:http://www.codepool.biz/excel/how-to-read-and-write-excel-files-in-java.html
